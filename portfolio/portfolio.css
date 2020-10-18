@@ -1,0 +1,141 @@
+body {
+  background-color:#202022;
+  padding-bottom: 20px;
+}
+.navbar {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-radius: 25px;
+    border: 5px solid #202022;
+    padding: 20px;
+    width: 1110px;
+    height: 70px;
+    word-spacing: 6px;
+}
+.display-4 {
+  text-align: center;
+}
+
+.box1 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+}
+.box2 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.box3 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 35%;
+  margin-top: -867px;
+}
+.box4 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 35%;
+}
+
+.box5 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 35%;
+}
+
+.box6 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 71%;
+  margin-top: -1113px;
+}
+
+.box7 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 71%;
+}
+
+.box8 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 71%;
+}
+
+.box9 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: -350px;
+}
+
+.box10 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 35%;
+  margin-top: -215px;
+}
+
+.box11 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 71%;
+  margin-top: -235px;
+}
+
+.box12 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: -235px;
+}
+
+.portfolio {
+  text-align: center;
+}
