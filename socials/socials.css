@@ -107,5 +107,15 @@ body {
   border: 15px solid#202022;
   padding: 20px;
   text-align: center;
-  margin-left: 36%;
+  margin-left: 71%;
+  margin-top: 10px;
+}
+
+.media11 {
+  background-color: #676769;
+  width: 275px;
+  border: 15px solid#202022;
+  padding: 20px;
+  text-align: center;
+  margin-top: -240px;
 }
