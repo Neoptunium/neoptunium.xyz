@@ -136,6 +136,29 @@ body {
   margin-top: -235px;
 }
 
+.box13 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: -235px;
+  margin-left: 35%;
+}
+
+.box14 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: -265px;
+  margin-left: 71%;
+}
+
+
 .portfolio {
   text-align: center;
 }
