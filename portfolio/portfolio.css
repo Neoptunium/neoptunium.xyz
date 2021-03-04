@@ -154,10 +154,20 @@ body {
   padding: 25px;
   font-size: 15px;
   text-align: center;
-  margin-top: -265px;
+  margin-top: -325px;
   margin-left: 71%;
 }
 
+.box15 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: -300px;
+  
+}
 
 .portfolio {
   text-align: center;
