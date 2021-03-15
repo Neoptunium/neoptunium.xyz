@@ -169,6 +169,18 @@ body {
   
 }
 
+.box16 {
+  background-color: #676769;
+  width: 300px;
+  border: 15px solid#202022;
+  padding: 25px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: -190px;
+  margin-left: 35%;
+  
+}
+
 .portfolio {
   text-align: center;
 }
