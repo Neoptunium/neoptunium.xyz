@@ -204,6 +204,17 @@ body {
     margin-top: -300px;
 }
 
+.box19 {
+    background-color: #676769;
+    width: 300px;
+    border: 15px solid#202022;
+    padding: 25px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: -180px;
+    margin-left: 35%;
+}
+
 .portfolio {
     text-align: center;
 }
