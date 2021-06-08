@@ -8,9 +8,10 @@ body {
     border-radius: 25px;
     border: 5px solid #202022;
     padding: 20px;
-    width: 1110px;
+    width: 1080px;
     height: 70px;
     word-spacing: 6px;
+    left: 11px;
 }
 .display-4 {
   text-align: center;
