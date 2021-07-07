@@ -1,5 +1,5 @@
 # neoptunium.xyz Infomration
-This is my personal website which displays all my portfolio of work, my social medias, and information about the courses and services that I offer, this was all developed by myself and is hosted to the public.
+This is my personal website which displays all my information, socials, courses/services information and more!, this was all developed by myself and is hosted to the public.
 
 # Website 
 https://neoptunium.xyz/
